@@ -1,1 +1,15 @@
-﻿
+﻿# Python bytecode
+__pycache__/
+*.py[cod]
+# Environment
+.env
+venv/
+.vscode/
+.ipynb_checkpoints//
+
+# Data and Logs
+*.log
+*.csv
+*.data
+*.names
+!data/
